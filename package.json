@@ -1,0 +1,25 @@
+{
+  "name": "site-caffeine",
+  "version": "1.0.0",
+  "description": "simple and lightweight node.js script designed to prevent your backend services and websites from becoming idle. by automatically sending recurring 'heartbeat' requests, it eliminates common issues like cold starts and inactivity throttling, ensuring your apps are always responsive when users or recruiters need it.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "scheduler",
+    "uptime",
+    "nodejs",
+    "axios",
+    "dotenv",
+    "heartbeat",
+    "avoid-cold-start"
+  ],
+  "author": "jordansmalls - https://www.jsmalls.net",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3"
+  }
+}
