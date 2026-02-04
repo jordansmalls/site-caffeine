@@ -4,7 +4,7 @@
 </h1>
 
 
-<h4 align="center">A simple and fast <a href="https://nodejs.org/">nodejs</a> script focusd on keeping your sites <em>awake</em>.</h4>
+<h4 align="center">A simple and fast <a href="https://nodejs.org/">nodejs</a> script focused on keeping your sites <em>awake</em>.</h4>
 
 <p align="center">
   <a href="#features">Features</a> •
